@@ -25,3 +25,4 @@ Can be used on Raspberry pi for home automatition
 -> For Bash Command
 type $ before message
 [Example]: $ls
+ .
